@@ -1,4 +1,4 @@
-# 🚀 API de Gestión de Programadores
+# API de Gestión de Programadores
 
 **Prototipo funcional desarrollado con Django y Django REST Framework**
  Descripción

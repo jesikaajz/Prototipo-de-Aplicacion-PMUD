@@ -32,8 +32,8 @@ pip install django djangorestframework
 3. Configurar base de datos
 
 # Aplicar migraciones
-python manage.py makemigrations
-python manage.py migrate
+- python manage.py makemigrations
+- python manage.py migrate
 
 # Crear superusuario (opcional)
 python manage.py createsuperuser
